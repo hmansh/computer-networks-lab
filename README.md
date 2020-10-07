@@ -1,9 +1,15 @@
 # Computer-Networks-Lab
 Assignments from Computer Network Labs. 
 
-# LAB 6
+# LAB 7
 
 1. Write a C program in TCP to demonstrate the use of select() system call in the context of I/O multiplexing.
+
+# LAB 6
+
+1. Test Q1
+
+2. Test Q2
 
 # LAB 5
 
