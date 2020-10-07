@@ -53,5 +53,3 @@ char ch1;
 char ch2[2];
 char ch3;
 };
-
-5.Write a C program to check whether the Host machine is in Little Endian or Big Endian. Enter a number, print the content of each byte location and Convert the Endianness of the same i.e. Little to Big Endian and vice-versa.
